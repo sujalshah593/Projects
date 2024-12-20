@@ -9,7 +9,6 @@ const Navbar2 = () => {
             <ul className="flex gap-8 mx-9">
                 <li className="cursor-pointer hover:font-bold transition-all duration-75">Home</li>
                 <li className="cursor-pointer hover:font-bold transition-all duration-75">Your Tasks</li>
-                <li className="cursor-pointer pt-1"><CgProfile /></li>
             </ul>
         </nav>
     );
