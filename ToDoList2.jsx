@@ -100,7 +100,7 @@ function ToDoList2(){
     return(
         < >
         <Navbar2/> 
-           <div className="mx-3 md:container md:mx-auto my-7 shadow-2xl font-cursive rounded-xl p-5 bg-white text-black min-h-[80vh] md:w-[35%]">
+           <div className="mx-3 md:container md:mx-auto my-7 shadow-2xl font-semibold rounded-xl p-5 bg-white text-black min-h-[80vh] md:w-[35%]">
             <h1 className='font-bold text-center text-3xl'>"List It, Do It, Crush It"</h1>
              <div className="addTodo my-5 flex flex-col gap-4">
               <h2 className='text-2xl font-bold'>Add a Todo</h2>
